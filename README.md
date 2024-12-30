@@ -1,2 +1,2 @@
-# colorscale_selection
-Interactive Plotly Express Color Scale Selection
+![image](https://github.com/user-attachments/assets/aa6abd50-a07c-4aaf-87cd-d47b210c21c3)
+
