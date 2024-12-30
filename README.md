@@ -6,7 +6,7 @@
 
 ## Qualitative Colorscales
 
-![image](https://github.com/user-attachments/assets/ce63a3ef-e310-459a-9603-485e35716454)
+![image](https://github.com/user-attachments/assets/f262c7e4-6022-4727-b5ff-1df09885b484)
 
 ## Sequential Colorscales
 
