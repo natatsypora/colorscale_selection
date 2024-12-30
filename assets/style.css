@@ -1,0 +1,26 @@
+/* Custom CSS to adjust the Accordion button margin */ 
+.custom-accordion .accordion-button {
+     padding: 8px; /* Adjust margin as needed */ 
+}
+
+pre code {
+    background-color: #E5ECF6 !important;  /* Light blue background */
+    color: #000000;  /* Black text color */
+    padding: 10px;  /* Padding around the code block */
+    border-radius: 5px;  /* Rounded corners */
+    border: 1px solid #ccc;  /* Optional: border around the code block */
+    white-space: pre-wrap; /* Ensure text wrapping */ 
+    word-wrap: break-word; /* Wrap long words */ 
+    overflow: auto; /* Add scroll bar for long content */  
+}
+
+.card-body {
+    padding: 10px !important;
+}
+
+.card-img-overlay {
+    padding: 0 !important;
+}
+.accordion-body {
+    padding: 10px !important;
+}
