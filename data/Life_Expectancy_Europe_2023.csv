@@ -1,0 +1,47 @@
+Countries,All,Male,Female,Sex gap,iso_alpha3
+Monaco,86.37,84.45,88.5,4.06,MCO
+San Marino,85.71,84.21,87.1,2.89,SMR
+Andorra,84.04,82.1,86.11,4.01,AND
+Switzerland,83.95,82.01,85.83,3.82,CHE
+Italy,83.72,81.57,85.75,4.18,ITA
+Spain,83.67,80.96,86.31,5.35,ESP
+Liechtenstein,83.63,81.84,85.32,3.48,LIE
+Gibraltar,83.55,80.92,86.14,5.23,GIB
+France,83.33,80.43,86.09,5.66,FRA
+Norway,83.31,81.75,84.85,3.1,NOR
+Malta,83.3,81.27,85.26,3.99,MLT
+Guernsey,83.27,81.01,85.58,4.56,GGY
+Sweden,83.26,81.44,85.1,3.66,SWE
+Iceland,82.69,80.98,84.51,3.52,ISL
+Ireland,82.41,80.37,84.48,4.11,IRL
+Portugal,82.36,79.44,85.12,5.68,PRT
+Luxembourg,82.23,80.57,83.84,3.27,LUX
+Netherlands,82.16,80.54,83.74,3.2,NLD
+Belgium,82.11,79.86,84.33,4.47,BEL
+Austria,81.96,79.54,84.32,4.78,AUT
+Denmark,81.93,80.02,83.86,3.84,DNK
+Finland,81.91,79.17,84.67,5.5,FIN
+Greece,81.86,79.29,84.33,5.04,GRC
+Cyprus,81.65,79.64,83.67,4.03,CYP
+Slovenia,81.6,78.9,84.34,5.44,SVN
+Germany,81.38,79.02,83.76,4.74,DEU
+United Kingdom,81.3,79.36,83.21,3.85,GBR
+Isle of Man,81.0,78.93,83.13,4.21,IMN
+Faroe Islands,80.18,78.17,82.5,4.33,FRO
+Czechia,79.83,77.0,82.64,5.64,CZE
+Jersey,79.71,77.72,81.76,4.04,JEY
+Albania,79.6,77.73,81.45,3.72,ALB
+Estonia,79.15,74.9,83.04,8.14,EST
+Poland,78.63,74.88,82.35,7.48,POL
+Croatia,78.58,75.41,81.69,6.28,HRV
+Slovakia,78.34,75.02,81.58,6.56,SVK
+Bosnia and Herzegovina,77.85,74.42,80.9,6.48,BIH
+North Macedonia,77.39,75.11,79.57,4.46,MKD
+Montenegro,77.09,73.73,80.31,6.58,MNE
+Hungary,77.02,73.71,80.19,6.48,HUN
+Serbia,76.77,73.5,80.04,6.54,SRB
+Latvia,76.19,71.56,80.47,8.91,LVA
+Lithuania,76.03,71.22,80.67,9.46,LTU
+Romania,75.94,72.4,79.56,7.16,ROU
+Bulgaria,75.64,72.16,79.21,7.05,BGR
+Belarus,74.43,69.53,79.06,9.53,BLR
